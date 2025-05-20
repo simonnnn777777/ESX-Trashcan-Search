@@ -7,7 +7,6 @@ local bins = {
     `prop_bin_08a`,
     `prop_cs_bin_02`,
     `prop_bin_07b`,
-    `prop_bin_01a`,
     `prop_recyclebin_03_a`,
     `prop_dumpster_4b`,
     `prop_dumpster_4a`,
